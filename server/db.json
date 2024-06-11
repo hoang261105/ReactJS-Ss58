@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "student_name": "P.Anh",
+      "email": "phuonganh@gmail.com",
+      "address": "Hải Phòng",
+      "phone": "0923214452",
+      "status": true,
+      "created_at": "07/07/2005"
+    },
+    {
+      "id": 8560,
+      "student_name": "Huyền",
+      "email": "huyen@gmail.com",
+      "address": "Văn Quán, Hà Đông, Hà Nội",
+      "phone": "0903599038",
+      "status": false,
+      "created_at": ""
+    }
+  ]
+}
